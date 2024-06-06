@@ -42,5 +42,3 @@ For questions or feedback, please reach out to us at mustafakaya.developer@gmail
 <img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/9b788fd5-7fe0-4231-b639-c7a01a5128fb" alt="3" width="200"/>
 
 <img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/6936e25e-1480-4e01-9364-30c189c44b70" alt="4" width="200"/>
-
-<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/69fce340-3e78-4d5e-8d23-409492d39f5b" alt="5" width="200"/>

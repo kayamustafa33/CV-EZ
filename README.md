@@ -30,16 +30,17 @@ If you would like to contribute, please create a pull request or open an issue. 
 This project is licensed under the MIT License. For more information, see the `LICENSE` file.
 
 ## Contact
-mustafakaya.developer@gmail.com
+
+For questions or feedback, please reach out to us at mustafakaya.developer@gmail.com.
 
 ## Screens
 
-![1](https://github.com/kayamustafa33/CV-EZ/assets/89656051/1a574b94-4b6b-43ba-85cd-10a910862744)
+<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/1a574b94-4b6b-43ba-85cd-10a910862744" alt="1" width="200"/>
 
-![2](https://github.com/kayamustafa33/CV-EZ/assets/89656051/1d5d45dc-b143-4e12-a259-bb5aeb1f9e06)
+<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/1d5d45dc-b143-4e12-a259-bb5aeb1f9e06" alt="2" width="200"/>
 
-![3](https://github.com/kayamustafa33/CV-EZ/assets/89656051/9b788fd5-7fe0-4231-b639-c7a01a5128fb)
+<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/9b788fd5-7fe0-4231-b639-c7a01a5128fb" alt="3" width="200"/>
 
-![4](https://github.com/kayamustafa33/CV-EZ/assets/89656051/6936e25e-1480-4e01-9364-30c189c44b70)
+<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/6936e25e-1480-4e01-9364-30c189c44b70" alt="4" width="200"/>
 
-![5](https://github.com/kayamustafa33/CV-EZ/assets/89656051/69fce340-3e78-4d5e-8d23-409492d39f5b)
+<img src="https://github.com/kayamustafa33/CV-EZ/assets/89656051/69fce340-3e78-4d5e-8d23-409492d39f5b" alt="5" width="200"/>
